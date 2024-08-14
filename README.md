@@ -1,1 +1,1 @@
-These are selected course project for Introduction to CS in JAVA
+These are selected course projects for Introduction to CS in JAVA
